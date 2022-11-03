@@ -14,8 +14,6 @@ tabulate
 cloudpickle
 Pillow
 future
-torch
-torchvision
 fvcore
 omegaconf>=2.1.0.dev24
 hydra-core>=1.1.0.dev5
